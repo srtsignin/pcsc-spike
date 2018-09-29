@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/srtsignin/pcsc-spike/issues"
   },
-  "homepage": "https://github.com/srtsignin/pcsc-spike#readme"
+  "homepage": "https://github.com/srtsignin/pcsc-spike#readme",
+  "dependencies": {
+    "pcsclite": "^0.6.0"
+  }
 }
